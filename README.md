@@ -14,6 +14,14 @@ You are tasked with applying your knowledge of Docker to **containerize existing
 
 [👉 You can find the assignment here](https://docs.google.com/document/d/1t79iVglt-Cxx2_tB6g6gvdSEQktpujdoxZxR_darpy8)
 
+### Starter projects
+
+As part of the workshop, you should use one of the following projects:
+
+- [Node.js](https://github.com/microverseinc/docker-workshop-nodejs/)
+- [Ruby on Rails](https://github.com/microverseinc/docker-workshop-ror/)
+- [Go](https://github.com/microverseinc/docker-workshop-go/)
+
 ## 🧠 Assessment
 
 When you’re finished, you should test your knowledge: [Quiz 2](https://forms.gle/1bLKM1odWeEKyPS69).
